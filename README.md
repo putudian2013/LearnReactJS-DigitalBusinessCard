@@ -1,6 +1,6 @@
 # Learn React - Digital Business Card
 
-## About this reporsitory
+## About this repository
 
 This repo is part of React JS course by Scrimba on freecodecamp.org https://www.youtube.com/watch?v=bMknfKXIFA8
 
